@@ -1,0 +1,180 @@
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav {
+    height: 90px;
+    word-spacing: 10px;
+}
+
+
+.cutLine {
+    height: 5px;
+    border: 0;
+    box-shadow: inset 0 7px 7px -7px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.navbarColor {
+    background-color: #00334d;
+}
+
+#logo {
+    width: 230px;
+}
+
+#turtletotamus {
+    padding-left:5%;
+    font-family: 'Work Sans', sans-serif; 
+}
+
+.Hyperlink{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#Facebook{
+    padding-right:50px;
+}
+
+.firstContent {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.firstPhoto {
+    margin-left: 150px;
+    width: 60%;
+    margin-bottom: 0;
+}
+
+.firstPart {
+    display: inline-flex;
+    margin: 80px 100px 0 80px;
+
+}
+
+.firstHr {
+    margin-top: 0;
+}
+
+.link {
+    height: 30px;
+}
+
+#about {
+    font-family: 'Noto Sans', sans-serif;
+    margin-bottom: 25px;
+    letter-spacing: -6px;
+    font-size: 70px;
+}
+
+#intro {
+    margin-bottom: 25px;
+    color: #595959;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.5em;
+}
+
+p {
+    line-height: 1.8em;
+    font-family: 'Ubuntu', sans-serif
+}
+
+#center {
+    text-align: center;
+}
+
+.LiSixPics {
+    list-style-type: none;
+    display: inline;
+}
+
+.img-thumbnail {
+    width: 12%;
+    margin: 15px 10px;
+}
+
+.secondPart {
+    background-color: #F2F2F2;
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.SEOContent {
+    width: 15%;
+    margin-right: 10%;
+}
+
+.SEO {
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 3em;
+}
+
+.pieChart {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.codingContent {
+    width: 15%;
+    margin-left: 10%;
+}
+
+.Coding {
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 3em;
+}
+
+.ThirdPart {
+    display: inline-flex;
+    margin: 200px 10% 100px 10%;
+}
+
+.partThreePhoto {
+    width: 110%;
+}
+
+.randomFacts {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2em;
+    letter-spacing: 0.1em;
+    line-height: 1.9em;
+}
+
+.fourthPartPhoto {
+    width: 50%;
+}
+
+.fourthPartContent {
+    text-align: start;
+    margin-left: 10%;
+}
+
+.fourthPart {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.fifthPart {
+    margin: 80px 100px;
+    display: inline-flex;
+}
+
+.fifthPartContent {
+    width: 60%;
+    margin-left: 10%;
+}
+
+.fifthPartPhoto {
+    margin: auto 100px auto 10%;
+    width: 75%;
+}
